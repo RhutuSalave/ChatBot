@@ -3,13 +3,13 @@
 
 #Overview
 
-    This project is an Android-based chatbot application developed in Kotlin. The chatbot provides a seamless conversational experience to assist users with various tasks and queries. The app leverages modern Android development practices and ensures compatibility across multiple devices.
+   . This project is an Android-based chatbot application developed in Kotlin. The chatbot provides a seamless conversational experience to assist users with various tasks and queries. The app leverages modern Android development practices and ensures compatibility across multiple devices.
 
 
 #Features
 
-    Interactive Conversations: Chat with users to answer queries and provide assistance.
-    Modern UI: Intuitive and user-friendly interface with responsive design.
+   . Interactive Conversations: Chat with users to answer queries and provide assistance.
+   . Modern UI: Intuitive and user-friendly interface with responsive design.
   
 
 #Technologies Used
