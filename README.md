@@ -14,28 +14,29 @@
 
 #Technologies Used
 
-    Programming Language: Kotlin
-    Frameworks & Libraries:
+   . Programming Language: Kotlin
+   . Frameworks & Libraries:
         Jetpack Components (e.g., ViewModel, LiveData, Room Database)
         Retrofit/Volley for API integration
         Material Design for UI components
-    Database: Room (local storage for chatbot responses or history)
+   . Database: Room (local storage for chatbot responses or history)
   
 
-Installation
+#Installation
 
-    #Clone the repository:
+    
+    . Clone the repository:
 
         git clone https://github.com/username/chatbot-android.git
 
-    Open the project in Android Studio.
-    Sync the Gradle files.
-    Run the application on an emulator or physical device.
+   . Open the project in Android Studio.
+   . Sync the Gradle files.
+   . Run the application on an emulator or physical device.
 
 
 #Usage
 
-    Open the app and start a conversation with the chatbot.
-    Ask questions or perform commands:
+   . Open the app and start a conversation with the chatbot.
+   . Ask questions or perform commands:
         Example: "What is the weather today?"
   
