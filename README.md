@@ -24,7 +24,7 @@
 
 #Installation
 
-    Clone the repository:
+    #Clone the repository:
 
         git clone https://github.com/username/chatbot-android.git
 
